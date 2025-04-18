@@ -1,4 +1,4 @@
-![Screenshot_20250418_164334](https://github.com/user-attachments/assets/c3e8a776-7669-489f-b863-d85c365f4701)# 🎬 Movies App
+# 🎬 Movies App
 
 A simple **Flutter movie app** to practice **Clean Architecture** and **BLoC**.
 
