@@ -1,16 +1,31 @@
-# movies_app
+![Screenshot_20250418_164334](https://github.com/user-attachments/assets/c3e8a776-7669-489f-b863-d85c365f4701)# 🎬 Movies App
 
-A new Flutter project.
+A simple **Flutter movie app** to practice **Clean Architecture** and **BLoC**.
 
-## Getting Started
+## 🛠 Tech Stack
+- Flutter & Dart  
+- Clean Architecture  
+- BLoC  
+- Dio – API requests  
+- GetIt – Dependency Injection  
+- Cached Network Image & Shimmer  
+- Carousel Slider & Animate Do  
+- Google Fonts  
+- Dartz & Equatable  
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
+- Home screen with movie list & sliders  
+- Movie details screen (title, overview, rating...)  
+- Clean, layered codebase using best practices  
 
-A few resources to get you started if this is your first Flutter project:
+> 📚 Built for learning purposes – not for production.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/da09d615-095e-4e86-ad14-2bb6e318b466" width="30%" />
+  <img src="https://github.com/user-attachments/assets/28545051-302b-42eb-af1d-fd9c3a9caf4b" width="30%" />
+</div>
+
+
+
